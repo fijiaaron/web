@@ -1,6 +1,6 @@
 # Web
 
-A new, simple browser automation API and library that automatically builds page objects and site structures.
+A new, simple browser automation API and library that automatically builds page objects and site structure for you making your automation code really easy to read (and write.)
 
 ## The API
 
@@ -86,4 +86,3 @@ You can also build complex actions and name them so that you can call them direc
 ### @TDRL:
 
 LOAD, FIND, CLICK, TYPE, GET
-
