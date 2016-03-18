@@ -1,6 +1,6 @@
 # Web
 
-A new, simple browser automation API and library that automatically builds page objects and site structure for you making your automation code really easy to read (and write.)
+A new, simple browser automation API and library that automatically builds page objects and site structure that makes your automation code really easy to read (and write.)
 
 ## The API
 
